@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/WhiteCaps_deploy/static/css/main.fb868b1f.css",
+    "main.js": "/WhiteCaps_deploy/static/js/main.347408e5.js",
+    "static/media/billGates.png": "/WhiteCaps_deploy/static/media/billGates.d3da2352b2eb45ec232a.png",
+    "static/media/nelsonMandela.png": "/WhiteCaps_deploy/static/media/nelsonMandela.ca869b1cabb8e0ec0433.png",
+    "static/media/einstein.png": "/WhiteCaps_deploy/static/media/einstein.43736f22270509723565.png",
+    "static/media/apj.png": "/WhiteCaps_deploy/static/media/apj.c17a8d538c0b8cfe09dc.png",
+    "static/media/steveJobs.png": "/WhiteCaps_deploy/static/media/steveJobs.c37d37c5cfe9f581727a.png",
+    "static/media/aboutMainImage.png": "/WhiteCaps_deploy/static/media/aboutMainImage.bf93fa841eabff9a9500.png",
+    "static/media/homePageMainImage.png": "/WhiteCaps_deploy/static/media/homePageMainImage.cb4bec397779b9c290ef.png",
+    "index.html": "/WhiteCaps_deploy/index.html",
+    "main.fb868b1f.css.map": "/WhiteCaps_deploy/static/css/main.fb868b1f.css.map",
+    "main.347408e5.js.map": "/WhiteCaps_deploy/static/js/main.347408e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb868b1f.css",
+    "static/js/main.347408e5.js"
+  ]
+}
